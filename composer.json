@@ -1,0 +1,17 @@
+{
+  "name": "mic2100/UrlParser",
+  "description": "A simple class to parse URL's",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Bardsley",
+      "email": "mic.bardsley@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mic2100\\UrlParser\\": "src/",
+      "Mic2100\\UrlParserTests\\": "tests/"
+    }
+  }
+}
